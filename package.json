@@ -1,11 +1,11 @@
 {
-  "name": "@blookvoodow/string-guesser",
+  "name": "@blookvoodow/string-comparer",
   "version": "1.0.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "files": ["dist"],
   "types": "dist/index.d.ts",
-  "repository": "git@github.com:blookvoodow/string-guesser.git",
+  "repository": "git@github.com:blookvoodow/string-comparer.git",
   "author": "yessiree",
   "license": "MIT",
   "scripts": {
